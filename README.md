@@ -1,6 +1,6 @@
 # React + Vite
 
-<img width="1679" height="864" alt="Image" src="https://github.com/user-attachments/assets/950f917c-172c-4da5-a48a-f75b85467969" />
+<img width="1630" height="874" alt="Image" src="https://github.com/user-attachments/assets/ed1ae6ce-ead3-4bef-9498-d144c25c32b3" />
 
 # Path to start this project 
 ## 1 Install all dependencies 
