@@ -20,7 +20,7 @@ const createfield = (name = '', type = 'string') => ({
     required: false,
     children: []
 })
-import NestedFieldRow from './NestedfieldRow'
+import NestedFieldRow from './NestedFieldRow'
 function FieldRow  ({
     field,
     index,
